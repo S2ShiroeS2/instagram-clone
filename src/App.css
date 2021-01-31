@@ -9,9 +9,17 @@
   height: 100vh;
 }
 
-.app__header {
+.app__header,
+.app__header-image {
   background-color: #fff;
   padding: 20px;
-  object-fit: contain;
+  width: 100%;
+  height: auto;
+  object-fit: none;
   border-bottom: 1px solid lightgray;
+}
+
+.app__sign-up center {
+  display: flex;
+  flex-direction: column;
 }
