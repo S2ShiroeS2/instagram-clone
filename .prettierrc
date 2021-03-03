@@ -1,9 +1,9 @@
 {
-  "arrowParens": "always",
-  "semi": true,
-  "trailingComma": "all",
-  "endOfLine": "lf",
-  "tabWidth": 2,
-  "printWidth": 80,
-  "useTabs": false
+    "arrowParens": "always",
+    "semi": true,
+    "trailingComma": "all",
+    "endOfLine": "lf",
+    "tabWidth": 4,
+    "printWidth": 80,
+    "useTabs": false
 }
